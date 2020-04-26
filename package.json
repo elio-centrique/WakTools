@@ -1,0 +1,30 @@
+{
+  "name": "waktools",
+  "version": "1.0.0",
+  "description": "A Wakfu related Discord bot which have WakStuff, Wakmanax and WakHunter features",
+  "main": "WakTools.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elio-centrique/WakTools.git"
+  },
+  "keywords": [
+    "Wakfu",
+    "bot",
+    "Discord",
+    "WakStuff",
+    "Wakmanax"
+  ],
+  "author": "Elio-Centrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elio-centrique/WakTools/issues"
+  },
+  "homepage": "https://github.com/elio-centrique/WakTools#readme"
+}
